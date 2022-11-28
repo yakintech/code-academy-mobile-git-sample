@@ -1,2 +1,9 @@
 Hello World!
-dffn 
+ 
+ git add
+
+ git commit -m 
+
+ git pull
+
+ git push 
